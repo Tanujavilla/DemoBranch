@@ -1,0 +1,1 @@
+Gitbranch is a seperate workspace used to make changes without affecting the main project
